@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'georgiaregular';
+    src: url('fonts/georgiaregular.eot');
+    src: url('fonts/georgiaregular.eot') format('embedded-opentype'),
+         url('fonts/georgiaregular.woff2') format('woff2'),
+         url('fonts/georgiaregular.woff') format('woff'),
+         url('fonts/georgiaregular.ttf') format('truetype'),
+         url('fonts/georgiaregular.svg#georgiaregular') format('svg');
+}

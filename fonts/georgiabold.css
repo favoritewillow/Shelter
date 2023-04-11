@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'georgiabold';
+    src: url('fonts/georgiabold.eot');
+    src: url('fonts/georgiabold.eot') format('embedded-opentype'),
+         url('fonts/georgiabold.woff2') format('woff2'),
+         url('fonts/georgiabold.woff') format('woff'),
+         url('fonts/georgiabold.ttf') format('truetype'),
+         url('fonts/georgiabold.svg#georgiabold') format('svg');
+}
